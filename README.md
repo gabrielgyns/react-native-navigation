@@ -35,4 +35,6 @@ OBS.: I left the global typing, but we wouldn't need it in this case.
 
 ## Bottom Tab Navigation
 
+[PR to the Bottom Tabs here](https://github.com/gabrielgyns/react-native-navigation/pull/3)
+
 [React Navigation - BOTTOM TAB NAVIGATOR - Docs](https://reactnavigation.org/docs/bottom-tab-navigator/)
