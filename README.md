@@ -1,10 +1,15 @@
 # Navigation with React Navigation
 
-## 1. Using Navigation through Global Typing
+## Stack Navigation
 
-## 2. Using Navigation through Props
+### 1. Using Navigation through Global Typing
+
+_No need comments I guess_
+
+### 2. Using Navigation through Props
 
 Since our `Routes` component returns a `StackRoutes` wrapped in a `NavigationContainer` which is a Context that shares a prop routes, meaning, we can access the navigation through the component's props.
+
 We need to create the `StackRoutesList` type in the `StackRoutes` component to be used as a generic type for the `createNativeStackNavigator` function.
 
 In our component, we can do something like this:
@@ -18,7 +23,10 @@ type Props = NativeStackScreenProps<StackRoutesList, "home">;
 
 And then, we can use the `navigation` prop in our component.
 
-[Check this PR with this approach here](https://github.com/jefferson-dev/react-navigation-example/pull/1).
+[Check this PR with this approach here](https://github.com/gabrielgyns/react-native-navigation/pull/1).
+
 OBS.: I left the global typing, but we wouldn't need it in this case.
 
-## 3. Making point 2 more Dynamic
+### 3. Making point 2 more Dynamic
+
+[Check this PR with the changes here](https://github.com/gabrielgyns/react-native-navigation/pull/2).
