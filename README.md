@@ -2,6 +2,8 @@
 
 ## Stack Navigation
 
+https://github.com/user-attachments/assets/728b025e-dc68-4ba5-826a-dc0e786d532f
+
 [React Navigation - STACK NAVIGATOR - Docs](https://reactnavigation.org/docs/native-stack-navigator/)
 
 ### 1. Using Navigation through Global Typing
@@ -35,11 +37,15 @@ OBS.: I left the global typing, but we wouldn't need it in this case.
 
 ## Bottom Tab Navigation
 
+https://github.com/user-attachments/assets/2533b011-5412-4fee-864f-0c5893f46e8b
+
 [PR to the Bottom Tabs here](https://github.com/gabrielgyns/react-native-navigation/pull/3)
 
 [React Navigation - BOTTOM TAB NAVIGATOR - Docs](https://reactnavigation.org/docs/bottom-tab-navigator/)
 
 ## Drawer Navigation
+
+https://github.com/user-attachments/assets/b24eab93-cefe-4774-b340-e6d82130a618
 
 [PR to the Drawer here](https://github.com/gabrielgyns/react-native-navigation/pull/4)
 
