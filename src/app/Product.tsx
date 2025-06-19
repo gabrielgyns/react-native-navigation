@@ -3,9 +3,9 @@ import { View } from "react-native";
 import { ButtonIcon } from "@/components/ButtonIcon";
 import { Header } from "@/components/Header";
 import { Title } from "@/components/Title";
-import { BottomRoutesProps } from "@/routes/BottomRoutes";
+import { DrawerRoutesProps } from "@/routes/DrawerRoutes";
 
-export function Product({ navigation }: BottomRoutesProps<"product">) {
+export function Product({ navigation }: DrawerRoutesProps<"product">) {
 	return (
 		<View
 			style={{

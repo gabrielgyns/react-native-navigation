@@ -38,3 +38,9 @@ OBS.: I left the global typing, but we wouldn't need it in this case.
 [PR to the Bottom Tabs here](https://github.com/gabrielgyns/react-native-navigation/pull/3)
 
 [React Navigation - BOTTOM TAB NAVIGATOR - Docs](https://reactnavigation.org/docs/bottom-tab-navigator/)
+
+## Drawer Navigation
+
+[PR to the Drawer here](https://github.com/gabrielgyns/react-native-navigation/pull/4)
+
+[React Navigation - DRAWER NAVIGATOR - Docs](https://reactnavigation.org/docs/drawer-navigator/)
