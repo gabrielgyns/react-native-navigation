@@ -2,6 +2,8 @@
 
 ## Stack Navigation
 
+[React Navigation - STACK NAVIGATOR - Docs](https://reactnavigation.org/docs/native-stack-navigator/)
+
 ### 1. Using Navigation through Global Typing
 
 _No need comments I guess_
@@ -30,3 +32,7 @@ OBS.: I left the global typing, but we wouldn't need it in this case.
 ### 3. Making point 2 more Dynamic
 
 [Check this PR with the changes here](https://github.com/gabrielgyns/react-native-navigation/pull/2).
+
+## Bottom Tab Navigation
+
+[React Navigation - BOTTOM TAB NAVIGATOR - Docs](https://reactnavigation.org/docs/bottom-tab-navigator/)
